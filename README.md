@@ -1,5 +1,5 @@
-# Portifolio Estudos
-Pagina HTML de teste DANILO
+# Portifólio Estudos
+Página HTML de teste DANILO
 
 06 JANEIRO 2026, Palmas-TO, Brasil
 
